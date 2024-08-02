@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  bot:
+    build: .
+    volumes:
+      - .:/app
+    networks:
+      - nas-docker
+    restart: always
+
+networks:
+  nas-docker:
+    external: true
