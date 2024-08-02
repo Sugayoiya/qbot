@@ -1,4 +1,8 @@
 nonebot-adapter-qq==1.5.0
 nonebot2==2.3.2
+nonebot2[fastapi]
+nonebot2[aiohttp]
+nonebot2[httpx]
+nonebot2[websockets]
 aiofiles==24.1.0
 ujson==5.10.0
