@@ -6,3 +6,4 @@ nonebot2[httpx]
 nonebot2[websockets]
 aiofiles==24.1.0
 ujson==5.10.0
+emoji==2.12.1
