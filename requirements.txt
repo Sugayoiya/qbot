@@ -8,3 +8,4 @@ aiofiles==24.1.0
 ujson==5.10.0
 emoji==2.12.1
 nonebot-plugin-send-anything-anywhere==0.6.1
+pillow==10.4.0
